@@ -1,8 +1,20 @@
 {
-	"title":"Salesforce",
+	"title":"Oracle",
 	"version": "1.0.0",
 	"triggers":{
-		"TestOne" : {},
-		"TestTwo" : {}
+		"TestOne" : {
+			"title" : "Trigger One"
+		},
+		"TestTwo" : {
+			"title" : "Trigger Two"
+		}
+	},
+	"actions" : {
+		"ActionOne" : {
+			"title" : "Action One"		
+		},
+		"ActionTwo" : {
+			"title" : "Action Two"
+		}
 	}
 }
