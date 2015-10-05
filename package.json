@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elasticio/oracle-connector/issues"
   },
-  "homepage": "https://github.com/elasticio/oracle-connector#readme"
+  "homepage": "https://github.com/elasticio/oracle-connector#readme",
+  "dependencies": {
+    "elasticio-sailor-nodejs": "^1.0.0"
+  }
 }
